@@ -1,3 +1,6 @@
-fn main() {
-    println!("Hello, world!");
-}
+pub mod sprite;
+
+/*
+ * IDs
+ *      1000 - Sprite
+ */
