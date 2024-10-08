@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["engine_core", "frosty_alloc", "render"]
+members = [ "basic_2d","engine_core", "frosty_alloc", "render"]
 
 [package]
 name = "frosty_engine"
